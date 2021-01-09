@@ -1,10 +1,10 @@
 Id	Title	Source	Link	Language	Subtitles	Media_Type	Time_Minutes	Keywords
-1	What does work mean? I Work, Salary, Profit (1/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=4EUD8icwVPA&t=275s	French	English	Video	54	travail, salaire. profit
-2	What does work mean? I Work, Salary, Profit (2/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=cShsUs_LL_A&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=2	French	English	Video	50	travail, salaire. profit
-3	What does work mean? I Work, Salary, Profit (3/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=fjHF16QSmcw&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=3	French	English	Video	54	travail, salaire. profit
-4	What does work mean? I Work, Salary, Profit (4/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=lkmgh7u9kTU&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=4	French	English	Video	52	travail, salaire. profit
-5	What does work mean? I Work, Salary, Profit (5/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=JZglv96TwtE&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=5	French	English	Video	50	travail, salaire. profit
-6	What does work mean? I Work, Salary, Profit (6/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=ofXwQ9F1OQQ&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=6	French	English	Video	50	travail, salaire. profit
+1	What does work mean? I Work, Salary, Profit (1/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=4EUD8icwVPA&t=275s	French	English	Video	54	travail, salaire, profit
+2	What does work mean? I Work, Salary, Profit (2/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=cShsUs_LL_A&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=2	French	English	Video	50	travail, salaire, profit
+3	What does work mean? I Work, Salary, Profit (3/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=fjHF16QSmcw&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=3	French	English	Video	54	travail, salaire, profit
+4	What does work mean? I Work, Salary, Profit (4/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=lkmgh7u9kTU&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=4	French	English	Video	52	travail, salaire, profit
+5	What does work mean? I Work, Salary, Profit (5/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=JZglv96TwtE&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=5	French	English	Video	50	travail, salaire, profit
+6	What does work mean? I Work, Salary, Profit (6/6) I ARTE Documentary	Arte	https://www.youtube.com/watch?v=ofXwQ9F1OQQ&list=PL-eZcc0GI8-UVyyqaOjv-DDMlCupvSV_Y&index=6	French	English	Video	50	travail, salaire, profit
 7	Une heure avec Thomas Piketty	France Inter	https://www.franceinter.fr/emissions/on-n-arrete-pas-l-eco/on-n-arrete-pas-l-eco-09-novembre-2019?xtmc=piketty&xtnp=1&xtcr=1	French	NA	Audio	46	inŽgalitŽs
 8	"Thomas Piketty : ""Je propose de dŽpasser la propriŽtŽ privŽe par la propriŽtŽ sociale et temporaire"""	France Inter	https://www.franceinter.fr/emissions/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-09-septembre-2019?xtmc=piketty&xtnp=1&xtcr=8	French	NA	Audio	47	inŽgalitŽs
 9	Why Best Buy Failed In The U.K.	CNBC	https://www.youtube.com/watch?v=0RJL8APHgbk&t=12s	English	NA	Video	8	business expansion, failure
